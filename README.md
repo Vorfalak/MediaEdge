@@ -1,2 +1,0 @@
-# MediaEdge
-MediaEdge WP Theme
